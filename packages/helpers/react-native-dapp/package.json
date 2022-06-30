@@ -43,10 +43,10 @@
     "@walletconnect/utils": "^1.7.8",
     "keyvaluestorage": "0.7.1",
     "react-native-qrcode-svg": "6.0.6",
-    "react-native-svg": "9.6.4",
     "use-deep-compare-effect": "1.6.1"
   },
   "devDependencies": {
+    "react-native-svg": "9.6.4",
     "@babel/cli": "7.8.3",
     "@babel/core": "7.8.3",
     "@babel/node": "7.8.3",
